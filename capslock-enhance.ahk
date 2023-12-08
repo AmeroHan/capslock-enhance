@@ -157,6 +157,7 @@ o::SendInstance '+{End}'
 
 ; ## 回车
 RedirectKey 'Space', 'Enter'
+Enter::SendInstance '{End}{Enter}'
 
 ; ## 退格/删除
 ; ### 单个字符
