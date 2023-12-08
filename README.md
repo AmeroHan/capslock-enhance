@@ -19,8 +19,8 @@
 | <kbd>U</kbd> / <kbd>O</kbd> | <kbd>Shift</kbd> + <kbd>Home</kbd> / <kbd>End</kbd> | 选择至行首/行尾 |
 | <kbd>W</kbd> / <kbd>R</kbd> | <kbd>Backspace</kbd> / <kbd>Delete</kbd> | 删除 |
 | <kbd>\[</kbd> / <kbd>/</kbd> | <kbd>Shift</kbd> + <kbd>Home</kbd> / <kbd>End</kbd><br><kbd>Backspace</kbd> / <kbd>Delete</kbd> | 删除至行首/行尾 |
-| <kbd>Backspace</kbd> | <kbd>End</kbd><br><kbd>Shift</kbd> + <kbd>Home</kbd><br><kbd>Backspace</kbd> | 删除当前行
-| <kbd>Alt</kbd> + <kbd>Backspace</kbd> | <kbd>Ctrl</kbd> + <kbd>A</kbd><br><kbd>Backspace</kbd> | 全选删除
-| <kbd>Space</kbd> | <kbd>Enter</kbd> | 回车
-| <kbd>Enter</kbd> | <kbd>End</kbd><kbd>Enter</kbd> | 在当前行后新增一行
+| <kbd>Backspace</kbd> | <kbd>End</kbd><br><kbd>Shift</kbd> + <kbd>Home</kbd><br><kbd>Backspace</kbd> | 删除当前行 |
+| <kbd>Alt</kbd> + <kbd>Backspace</kbd> | <kbd>Ctrl</kbd> + <kbd>A</kbd><br><kbd>Backspace</kbd> | 全选删除 |
+| <kbd>Space</kbd> | <kbd>Enter</kbd> | 回车 |
+| <kbd>Enter</kbd> | <kbd>End</kbd><kbd>Enter</kbd> | 在当前行后新增一行 |
 | …… |  |  |
