@@ -2,7 +2,7 @@
 
 众所周知 <kbd>CapsLock</kbd> 极其少用却占据了有利位置，此脚本旨在增强 <kbd>CapsLock</kbd> 键的功能，基于 [AutoHotkey](https://www.autohotkey.com/) v2。
 
-键位基本照搬了 [wo52616111/capslock-plus](/wo52616111/capslock-plus)，之前一直在用这个，一个非常好的软件，推荐。但是里面有很多功能我用不上，于是我挑出自己需要的功能，写了一个自己用的脚本。
+键位基本照搬了 [wo52616111/capslock-plus](https://github.com/wo52616111/capslock-plus)，之前一直在用这个，一个非常好的软件，推荐。但是里面有很多功能我用不上，于是我挑出自己需要的功能，写了一个自己用的脚本。
 
 ## 键位
 
